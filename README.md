@@ -21,7 +21,7 @@ Developed as a team project of 3, this program implements the complete rules of 
 - **Language:** C++
 - **Graphics:** X11 (X Window System)
 - **Concepts:** Object-Oriented Programming (OOP), recursion, search trees, modular architecture, design patterns
-- **Tools:** G++, Makefile, Git
+- **Tools:** C++, Makefile
 
 ---
 
